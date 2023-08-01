@@ -1,0 +1,2 @@
+# Otomotiv-Endustrisinde-Kompozit-Malzemeler-Ve-Ozellikleri
+Bu proje otomotiv endüstrisinde kullanılan kompozit malzemeleri göstermektedir. İlgili malzemenin nerelerde ve ne amaçla kullanıldığı açıklanmıştır. Yüksek düzeyde yenilikçilik gösteren kompozit malzemelerin yapısı, özel kullanımları, üretim yöntemleri, Dünyada ve Türkiye’de kullanımı, otomotiv sektöründe kullanılan parçaları, çarpma dayanımı ve testleri, doğal lifler ve yüksek teknoloji otomobillerdeki kullanım alanları belirtilmiştir.
